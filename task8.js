@@ -1,7 +1,7 @@
 console.log("these are conditional statements in javascript");
 
 if ("0") {
-  alert( 'Hello' );
+    alert('Hello');
 }
 
 let num = prompt("Enter a number: ");
